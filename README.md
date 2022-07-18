@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b>Luciano David Dorregaray</b>.
-    <br>I'm a Full Stack Web Developer from Argentina.<br>
+    <br>I'm a Full Stack Web Developer from Córdoba, Argentina.<br>
 
 </samp>
 
