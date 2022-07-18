@@ -16,6 +16,7 @@
   &nbsp; &nbsp;
 </p>
 
+<samp align="center">
 <p>
 Technologies:
 JAVASCRIPT || REACT || REDUX || STYLED COMPONENTS || NODE JS || EXPRESS || SEQUELIZE || POSTGRESQL
