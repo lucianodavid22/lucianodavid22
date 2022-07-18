@@ -18,3 +18,5 @@ A pesar de que todos en la comunidad poseen excelentes habilidades, conmigo cons
 ¿Quieres saber más de mi ? Contáctame! 📩
 Email: lucianodavid2201@gmail.com
 Linkedin: https://www.linkedin.com/in/lucianodavid22/
+
+https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
