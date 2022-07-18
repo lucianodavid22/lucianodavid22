@@ -10,12 +10,6 @@
 
 </p>
 
-<p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/lucianodavid22/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; &nbsp;
-</p>
-
 <samp align="center">
 <p>
 Technologies:
@@ -24,6 +18,8 @@ JAVASCRIPT || REACT || REDUX || STYLED COMPONENTS || NODE JS || EXPRESS || SEQUE
 
 </samp>
 <samp>
-  contact: lucianodavid2201@gmail.com
+  contact: 
+  <br>Email: lucianodavid2201@gmail.com<br>
+  <br>Linkedin: https://www.linkedin.com/in/lucianodavid22/<br>
 </samp>
 
