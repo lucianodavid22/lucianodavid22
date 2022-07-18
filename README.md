@@ -1,14 +1,29 @@
-### Hola 👋, mi nombre es Luciano David Dorregaray
-#### Full Stack Developer
-![Full Stack Developer](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b>Luciano David Dorregaray</b>.
+    <br>I'm a Full Stack Web Developer from Argentina.<br>
 
-Soy Fullstack Developer con orientación al Front-end, me considero una persona dedicada y comprometida con lo que hace, con deseos de aprender y mejorar mis habilidades cada día más. Comencé a estudiar programación ya que me gusta la tecnología, resolver problemas de forma lógica y crear, usando la programación como herramienta principal.
+</samp>
 
-Estoy siempre dispuesto a aprender y a investigar nuevas y creativas soluciones para los diferentes problemas que se presenten, un programador siempre listo para enseñar a los demás y también para aprender de ellos.
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-Habilidades: JAVASCRIPT || REACT || REDUX || STYLED COMPONENTS || NODE JS || EXPRESS || SEQUELIZE || POSTGRESQL
+</p>
 
-Contáctame!:
-Email: lucianodavid2201@gmail.com
-Linkedin: https://www.linkedin.com/in/lucianodavid22/
+
+<details align="center">
+
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/lucianodavid22/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; &nbsp;
+</p>
+
+<p>
+Technologies:
+JAVASCRIPT || REACT || REDUX || STYLED COMPONENTS || NODE JS || EXPRESS || SEQUELIZE || POSTGRESQL
+</p>
+
+</samp>
+</details>
 
