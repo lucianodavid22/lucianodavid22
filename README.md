@@ -1,16 +1,20 @@
-### Hi there 👋
+Hola!👋 mi nombre es Luciano David Dorregaray
 
-<!--
-**lucianodavid22/lucianodavid22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Quién soy? 🤔
+Soy Fullstack Developer con orientación al Front-end, me considero una persona dedicada y comprometida con lo que hace, con deseos de aprender y mejorar mis habilidades cada día más. Comencé a estudiar programación ya que me gusta la tecnología, resolver problemas de forma lógica y crear, usando la programación como herramienta principal.
 
-Here are some ideas to get you started:
+¿Por qué yo?🙋‍♂️
+A pesar de que todos en la comunidad poseen excelentes habilidades, conmigo conseguirán a un programador con una gran capacidad para resolver problemas, siempre dispuesto a aprender y a investigar nuevas y creativas soluciones para los diferentes problemas que se presenten, un programador siempre listo para enseñar a los demás y también para aprender de ellos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tengo conocimientos en:
+-JavaScript
+-React
+-Redux
+-Node.js
+-Express
+-Sequelize
+-PostgreSQL
+
+¿Quieres saber más de mi ? Contáctame! 📩
+Email: lucianodavid2201@gmail.com
+Linkedin: https://www.linkedin.com/in/lucianodavid22/
