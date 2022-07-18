@@ -9,6 +9,6 @@ Estoy siempre dispuesto a aprender y a investigar nuevas y creativas soluciones 
 Habilidades: JAVASCRIPT || REACT || REDUX || STYLED COMPONENTS || NODE JS || EXPRESS || SEQUELIZE || POSTGRESQL
 
 Contáctame!:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucianodavid22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lucianodavid22//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://www.linkedin.com/in/lucianodavid22/)  
+Email: lucianodavid2201@gmail.com
+Linkedin: https://www.linkedin.com/in/lucianodavid22/
 
