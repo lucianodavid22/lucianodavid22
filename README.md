@@ -19,6 +19,7 @@ JAVASCRIPT || REACT || REDUX || STYLED COMPONENTS || NODE JS || EXPRESS || SEQUE
 </samp>
 <samp>
   contact: 
-  <br>Email: lucianodavid2201@gmail.com Linkedin: https://www.linkedin.com/in/lucianodavid22/<br>
+  <br> Linkedin: https://www.linkedin.com/in/lucianodavid22/
+  <br> Email: lucianodavid2201@gmail.com 
 </samp>
 
