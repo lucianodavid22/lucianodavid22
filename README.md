@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://i.gifer.com/origin/7c/7c145ab9ffe62056d4eab27d7f940600_w200.gif" width="180" style="padding: 30px"/>
+  <img src="https://i.gifer.com/origin/7c/7c145ab9ffe62056d4eab27d7f940600_w200.gif" width="150" />
 
 </p>
 
