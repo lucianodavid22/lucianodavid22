@@ -5,9 +5,9 @@
     <br>Soy Desarrollador Web Full Stack de Córdoba, Argentina.<br>
 
 </samp>
-
+  <br>
   <img src="https://i.gifer.com/origin/7c/7c145ab9ffe62056d4eab27d7f940600_w200.gif" width="150" />
-
+  <br>
 </p>
 
 <samp align="center">
